@@ -1,4 +1,6 @@
 <?php
     //Exibindo mensagem com ECHO
-    echo"Olá mundo !";
+    echo"<h1>Olá mundo !</h1>";
+
+    print"Aprendendo PHP";
 ?>
